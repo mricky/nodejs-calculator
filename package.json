@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-calculator",
+  "version": "1.0.0",
+  "description": "Simple a calculator using server",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mricky/nodejs-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mricky/nodejs-calculator/issues"
+  },
+  "homepage": "https://github.com/mricky/nodejs-calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
